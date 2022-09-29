@@ -1,0 +1,10 @@
+Binario: 1
+Binario: 01
+Binario: 11
+Binario: 001
+Binario: 101
+Binario: 011
+Binario: 111
+Binario: 0001
+Binario: 1001
+Binario: 0101
